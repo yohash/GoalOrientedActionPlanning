@@ -1,2 +1,2 @@
 # GoalOrientedActionPlanning
-A basic goal oriented action planning engine, built for Unity
+A basic Goal Oriented Action Planning (GOAP) engine, built for Unity
